@@ -9,7 +9,7 @@ int main (void)
 
     printf("%s %s.\n");
 
-    word1[2] = '\0';        /* '\0' limita onde a string é impressa na tela, por isso todo array deve ter um espaço a mais além do número de caracteres que serão inseridos */
+    word1[2] = '\0';        /* '\0' limita onde a string Ã© impressa na tela, por isso todo array deve ter um espaÃ§o a mais alÃ©m do nÃºmero de caracteres que serÃ£o inseridos */
     word2[5] = '\0';
 
     printf("%s %s.\n");
